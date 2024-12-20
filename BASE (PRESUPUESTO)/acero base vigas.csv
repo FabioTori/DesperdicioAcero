@@ -1,0 +1,509 @@
+﻿Tipo ;Nivel;Elemento;Diámetro;Longitud de barra (m);Cantidad;Peso de acero;Peso total (kg)
+;;;;;;;
+ Techo 1° Nivel ;;;;;;;
+ Viga Chata ;;;;;;;
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.47;37; 0.56 kg/m ;30.496341
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.04;37; 0.56 kg/m ;42.253367
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.47;37; 0.56 kg/m ;30.468621
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.04;37; 0.56 kg/m ;42.253367
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.47;27; 0.56 kg/m ;22.221923
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.04;27; 0.56 kg/m ;30.833538
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.52;9; 0.56 kg/m ;7.680815
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.04;9; 0.56 kg/m ;10.279934
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.47;34; 0.56 kg/m ;27.954314
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.04;34; 0.56 kg/m ;38.896498
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.45;34; 0.56 kg/m ;27.673185
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.06;34; 0.56 kg/m ;39.151123
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";1.43;35; 0.56 kg/m ;28.042025
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/8"" ";2.08;35; 0.56 kg/m ;40.748863
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.96;4; 2.24 kg/m ;80.077683
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";4.94;4; 2.24 kg/m ;44.128864
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";3.08;4; 2.24 kg/m ;27.552188
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.54;4; 2.24 kg/m ;67.403361
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.53;4; 2.24 kg/m ;67.289909
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";6.57;4; 2.24 kg/m ;58.77996
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.96;1; 2.24 kg/m ;20.019421
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";4.94;1; 2.24 kg/m ;11.032216
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";6.57;1; 2.24 kg/m ;14.69499
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.54;1; 2.24 kg/m ;16.85084
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.53;1; 2.24 kg/m ;16.822477
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";3.08;1; 2.24 kg/m ;6.888047
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";2.21;1; 2.24 kg/m ;4.930301
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";2.23;2; 2.24 kg/m ;9.96901
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.96;4; 2.24 kg/m ;80.077683
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";4.94;4; 2.24 kg/m ;44.128864
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.74;4; 2.24 kg/m ;78.117943
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";5.13;5; 2.24 kg/m ;57.276465
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.96;1; 2.24 kg/m ;20.019421
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";4.88;1; 2.24 kg/m ;10.90459
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";5.12;1; 2.24 kg/m ;11.441991
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";8.71;1; 2.24 kg/m ;19.460776
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.98;1; 2.24 kg/m ;17.838753
+ Corte 7-7 ; SUP ; Viga Chata ;" 3/4"" ";7.98;4; 2.24 kg/m ;71.359836
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Viga Peraltada ; SUP ;;;;;;
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;9; 0.56 kg/m ;10.323046
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;13; 0.56 kg/m ;14.841857
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;13; 0.56 kg/m ;14.841857
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.5;2; 2.24 kg/m ;11.155695
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.5;2; 2.24 kg/m ;11.178409
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";6.46;2; 2.24 kg/m ;28.893509
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";6.47;2; 2.24 kg/m ;28.904096
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.480453
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.480453
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;6; 0.56 kg/m ;6.893413
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;16; 0.56 kg/m ;18.273423
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;16; 0.56 kg/m ;18.273423
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";5.81;2; 2.24 kg/m ;25.956687
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";5.81;2; 2.24 kg/m ;25.966257
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.7;2; 2.24 kg/m ;16.559279
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.71;2; 2.24 kg/m ;16.566598
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.7;2; 2.24 kg/m ;16.559279
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.71;2; 2.24 kg/m ;16.566598
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;15; 0.56 kg/m ;15.749306
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;11; 0.56 kg/m ;11.549473
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.894512
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.899824
+ V-1 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.480453
+ V-1 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.480453
+ V-1 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.494168
+ V-1 ; SUP ; Viga Peraltada ;" 3/4"" ";6.38;2; 2.24 kg/m ;28.499863
+ V-1 ; SUP ; Viga Peraltada ;" 3/4"" ";6.4;2; 2.24 kg/m ;28.618138
+ V-1 ; SUP ; Viga Peraltada ;" 3/4"" ";3.96;1; 2.24 kg/m ;8.84718
+ V-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.07;10; 0.56 kg/m ;11.606326
+ V-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.07;10; 0.56 kg/m ;11.606326
+ V-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.09;14; 0.56 kg/m ;16.363828
+ V-2 ; SUP ; Viga Peraltada ;" 3/4"" ";7.49;2; 2.24 kg/m ;33.471069
+ V-2 ; SUP ; Viga Peraltada ;" 3/4"" ";7.49;2; 2.24 kg/m ;33.486279
+ V-2 ; SUP ; Viga Peraltada ;" 3/4"" ";4.67;2; 2.24 kg/m ;20.854179
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344535
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344121
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.345166
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2;9; 0.56 kg/m ;10.091959
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.01;2; 2.24 kg/m ;31.324662
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.138131
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.4;2; 2.24 kg/m ;33.061209
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.53;2; 2.24 kg/m ;15.765778
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.03;2; 2.24 kg/m ;31.445467
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.201397
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.31;2; 2.24 kg/m ;32.659208
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.513644
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.501978
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.38;2; 2.24 kg/m ;15.095299
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;10; 0.56 kg/m ;10.916107
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;5; 0.56 kg/m ;5.458053
+ V-4 ; SUP ; Viga Peraltada ;" 3/4"" ";3.73;2; 2.24 kg/m ;16.677215
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";4.49;2; 3.40 kg/m ;30.520328
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";3.43;1; 3.40 kg/m ;11.665171
+ V-5 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-5 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-5 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-5 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";6.47;2; 3.40 kg/m ;43.988941
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";7.96;2; 3.40 kg/m ;54.100665
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";6.08;2; 3.40 kg/m ;41.297244
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";5.15;2; 3.40 kg/m ;35.021596
+ V-5 ; SUP ; Viga Peraltada ;" 1"" ";3.65;1; 3.40 kg/m ;12.398411
+ V-6 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-6 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-6 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;23; 0.56 kg/m ;26.316621
+ V-6 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;12; 0.56 kg/m ;13.72807
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";8.94;2; 3.40 kg/m ;60.714735
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";4.15;1; 3.40 kg/m ;14.102152
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";7.08;2; 3.40 kg/m ;48.080978
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;61.033958
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";7.53;2; 3.40 kg/m ;51.138278
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";7.84;1; 3.40 kg/m ;26.623528
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";3.75;1; 3.40 kg/m ;12.743084
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";7.33;2; 3.40 kg/m ;49.820602
+ V-6 ; SUP ; Viga Peraltada ;" 1"" ";6.18;2; 3.40 kg/m ;41.956173
+ Techo 1° Nivel: 144 ; SUP ;;;;1,082.00;;3,286.89
+ Techo 2° Nivel ; SUP ;;;;;;
+ Viga Chata ; SUP ;;;;;;
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.046794
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Viga Peraltada ; SUP ;;;;;;
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;31; 0.56 kg/m ;35.538639
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.02;11; 0.56 kg/m ;12.459583
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.366046
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.365996
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.49;2; 2.24 kg/m ;11.112044
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.48;2; 2.24 kg/m ;11.071313
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;15; 0.56 kg/m ;15.749306
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;11; 0.56 kg/m ;11.549473
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.894512
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.899824
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344535
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344121
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.345166
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2;9; 0.56 kg/m ;10.091959
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.01;2; 2.24 kg/m ;31.324662
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.138131
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.4;2; 2.24 kg/m ;33.061209
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.53;2; 2.24 kg/m ;15.765778
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.03;2; 2.24 kg/m ;31.445467
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.201397
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.22;2; 2.24 kg/m ;32.271872
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.513644
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.501978
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.38;2; 2.24 kg/m ;15.095299
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;10; 0.56 kg/m ;10.916107
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;5; 0.56 kg/m ;5.458053
+ V-4 ; SUP ; Viga Peraltada ;" 3/4"" ";3.73;2; 2.24 kg/m ;16.677215
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";4.49;2; 3.40 kg/m ;30.520328
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";3.44;1; 3.40 kg/m ;11.670839
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.487844
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;15; 0.56 kg/m ;17.02838
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.487844
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.486237
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.06;11; 0.56 kg/m ;12.70182
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";7.86;2; 2.24 kg/m ;35.135448
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.138131
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";6.39;2; 2.24 kg/m ;28.548871
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.81;1; 2.24 kg/m ;8.518904
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.37;2; 2.24 kg/m ;37.421883
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";6.22;2; 2.24 kg/m ;27.784277
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.201397
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.192186
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.132541
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934989
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";4.54;2; 2.24 kg/m ;20.281911
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.77;2; 2.24 kg/m ;16.855074
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934882
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934989
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;8; 0.56 kg/m ;9.08639
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;19; 0.56 kg/m ;21.707352
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.224093
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.225776
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.01;10; 0.56 kg/m ;11.269287
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";7.25;2; 2.24 kg/m ;32.396882
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.118722
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";3.47;1; 2.24 kg/m ;7.762099
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";5.84;2; 2.24 kg/m ;26.096507
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.192186
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";6.69;2; 2.24 kg/m ;29.91403
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";5.7;2; 2.24 kg/m ;25.472385
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.151581
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;1; 2.24 kg/m ;6.575791
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;1; 2.24 kg/m ;6.575791
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";3.47;1; 2.24 kg/m ;7.762099
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.56;2; 3.40 kg/m ;37.803502
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.88;3; 3.40 kg/m ;90.454118
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.15;2; 3.40 kg/m ;35.021596
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";3.65;2; 3.40 kg/m ;24.796823
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.45;2; 3.40 kg/m ;37.056649
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.99;3; 3.40 kg/m ;91.570063
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.45;2; 3.40 kg/m ;37.056649
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.99;3; 3.40 kg/m ;91.570063
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;23; 0.56 kg/m ;26.316621
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;12; 0.56 kg/m ;13.72807
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";8.94;2; 3.40 kg/m ;60.714735
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";4.15;1; 3.40 kg/m ;14.102152
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.08;2; 3.40 kg/m ;48.080978
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;61.033958
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.53;2; 3.40 kg/m ;51.138278
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.84;1; 3.40 kg/m ;26.623528
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";3.75;1; 3.40 kg/m ;12.743084
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.33;2; 3.40 kg/m ;49.820602
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";6.18;3; 3.40 kg/m ;62.93426
+ Techo 2° Nivel: 158 ; SUP ;;;;928;;3,291.06
+ Techo 3° Nivel ; SUP ;;;;;;
+ Viga Chata ; SUP ;;;;;;
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.046794
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;3; 0.22 kg/m ;0.627511
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/4"" ";0.94;5; 0.22 kg/m ;1.045851
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Corte 9-9 ; SUP ; Viga Chata ;" 1/2"" ";1.88;2; 0.99 kg/m ;3.727967
+ Viga Peralrada ; SUP ;;;;;;
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;31; 0.56 kg/m ;35.538639
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.366046
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.365996
+ Viga Peraltada ; SUP ;;;;;;
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.02;11; 0.56 kg/m ;12.459583
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.49;2; 2.24 kg/m ;11.112044
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";2.48;2; 2.24 kg/m ;11.071313
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;15; 0.56 kg/m ;15.749306
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;11; 0.56 kg/m ;11.549473
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.894512
+ Corte 5-5 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.899824
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344535
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.344121
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.345166
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2;9; 0.56 kg/m ;10.091959
+ V-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.01;2; 2.24 kg/m ;31.324662
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.138131
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.4;2; 2.24 kg/m ;33.061209
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.53;2; 2.24 kg/m ;15.765778
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.03;2; 2.24 kg/m ;31.445467
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.201397
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";7.22;2; 2.24 kg/m ;32.263545
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.15944
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.513644
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.36;1; 2.24 kg/m ;7.501978
+ V-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.38;2; 2.24 kg/m ;15.095299
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;10; 0.56 kg/m ;10.916107
+ V-4 ; SUP ; Viga Peraltada ;" 3/8"" ";1.95;5; 0.56 kg/m ;5.458053
+ V-4 ; SUP ; Viga Peraltada ;" 3/4"" ";3.73;2; 2.24 kg/m ;16.677215
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";4.49;2; 3.40 kg/m ;30.520328
+ V-4 ; SUP ; Viga Peraltada ;" 1"" ";3.44;1; 3.40 kg/m ;11.670839
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.487844
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;15; 0.56 kg/m ;17.02838
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.487844
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;11; 0.56 kg/m ;12.486237
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.06;11; 0.56 kg/m ;12.70182
+ V-7 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";7.86;2; 2.24 kg/m ;35.135448
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.134912
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";6.39;2; 2.24 kg/m ;28.548871
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.81;1; 2.24 kg/m ;8.518904
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.38;2; 2.24 kg/m ;37.438752
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";6.22;2; 2.24 kg/m ;27.784277
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.201397
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.192186
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.132541
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934989
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";4.54;2; 2.24 kg/m ;20.281911
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.77;2; 2.24 kg/m ;16.855074
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934882
+ V-7 ; SUP ; Viga Peraltada ;" 3/4"" ";3.12;2; 2.24 kg/m ;13.934989
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;8; 0.56 kg/m ;9.08639
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;19; 0.56 kg/m ;21.707352
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.224093
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;10; 0.56 kg/m ;11.358323
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.225776
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.01;10; 0.56 kg/m ;11.269287
+ V-8 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;9; 0.56 kg/m ;10.222491
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";7.25;2; 2.24 kg/m ;32.396882
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";8.98;2; 2.24 kg/m ;40.118722
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";3.47;1; 2.24 kg/m ;7.762099
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";5.84;2; 2.24 kg/m ;26.096507
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";8.99;2; 2.24 kg/m ;40.192186
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";6.69;2; 2.24 kg/m ;29.91403
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";5.7;2; 2.24 kg/m ;25.472385
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;2; 2.24 kg/m ;13.151581
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;1; 2.24 kg/m ;6.575791
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";2.94;1; 2.24 kg/m ;6.575791
+ V-8 ; SUP ; Viga Peraltada ;" 3/4"" ";3.47;1; 2.24 kg/m ;7.762099
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.478387
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;22; 0.56 kg/m ;25.252452
+ V-9 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;15; 0.56 kg/m ;17.115772
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.45;2; 3.40 kg/m ;37.056649
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.99;3; 3.40 kg/m ;91.570063
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.15;2; 3.40 kg/m ;35.021596
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";3.65;2; 3.40 kg/m ;24.796823
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.45;2; 3.40 kg/m ;37.056649
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.99;3; 3.40 kg/m ;91.570063
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.45;2; 3.40 kg/m ;37.056649
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;60.985031
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";8.99;3; 3.40 kg/m ;91.570063
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";5.92;2; 3.40 kg/m ;40.205593
+ V-9 ; SUP ; Viga Peraltada ;" 1"" ";6.08;3; 3.40 kg/m ;61.945866
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;10; 0.56 kg/m ;11.470283
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;23; 0.56 kg/m ;26.316621
+ V-10 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;12; 0.56 kg/m ;13.72807
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";8.94;2; 3.40 kg/m ;60.714735
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";4.15;1; 3.40 kg/m ;14.102152
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.08;2; 3.40 kg/m ;48.080978
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";8.98;2; 3.40 kg/m ;61.033958
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.53;2; 3.40 kg/m ;51.138278
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.84;1; 3.40 kg/m ;26.623528
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";3.75;1; 3.40 kg/m ;12.743084
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";7.33;2; 3.40 kg/m ;49.820602
+ V-10 ; SUP ; Viga Peraltada ;" 1"" ";6.18;3; 3.40 kg/m ;62.93426
+ Techo 3° Nivel: 158 ; SUP ;;;;928;;3,291.43
+ Techo 4° Nivel ; SUP ;;;;;;
+ Viga Peraltada ; SUP ;;;;;;
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;31; 0.56 kg/m ;35.538639
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.03;13; 0.56 kg/m ;14.778783
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.04;19; 0.56 kg/m ;21.700368
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.02;11; 0.56 kg/m ;12.459583
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/8"" ";2.02;20; 0.56 kg/m ;22.608544
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.366046
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.67;2; 2.24 kg/m ;25.365996
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.79;2; 2.24 kg/m ;25.893852
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.8;2; 2.24 kg/m ;25.906465
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.56;2; 2.24 kg/m ;24.848411
+ Corte 2-2 ; SUP ; Viga Peraltada ;" 3/4"" ";5.58;2; 2.24 kg/m ;24.925225
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/8"" ";2.07;20; 0.56 kg/m ;23.175653
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.50905
+ Corte 3-3 ; SUP ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 6-6 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;15; 0.56 kg/m ;15.749306
+ Corte 6-6 ; SUP ; Viga Peraltada ;" 3/8"" ";1.87;11; 0.56 kg/m ;11.549473
+ Corte 6-6 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.894512
+ Corte 6-6 ; SUP ; Viga Peraltada ;" 5/8"" ";4.8;2; 1.55 kg/m ;14.899824
+ Techo 4° Nivel: 21 ;;;;;184;;432.715034
+ Techo Sótano ;;;;;;;
+ Viga Peraltada ;;;;;;;
+ Corte 3-3 ; SUB ; Viga Peraltada ;" 3/8"" ";2.05;20; 0.56 kg/m ;22.960905
+ Corte 3-3 ; SUB ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUB ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.508992
+ Corte 3-3 ; SUB ; Viga Peraltada ;" 3/4"" ";3.92;2; 2.24 kg/m ;17.537703
+ Corte 5-5 ; SUB ; Viga Peraltada ;" 3/8"" ";1.87;15; 0.56 kg/m ;15.749306
+ Corte 5-5 ; SUB ; Viga Peraltada ;" 5/8"" ";2.99;2; 1.55 kg/m ;9.281196
+ Corte 5-5 ; SUB ; Viga Peraltada ;" 5/8"" ";2.99;2; 1.55 kg/m ;9.28117
+ Techo Sótano: 7 ;;;;;45;;109.828263
